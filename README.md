@@ -1,8 +1,4 @@
-### Hi there 👋
-
-
-
-Here are some ideas to get you started:
+### Hi bro 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning PHP,TS,Docker,Unit test
@@ -12,8 +8,7 @@ Here are some ideas to get you started:
 - Other tools : AWS EC2,Heroku,Postman,Mongodb Compass 
 - 👯 I’m looking to collaborate on interesting project ^ . ^
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: supakornhomnan@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
 
