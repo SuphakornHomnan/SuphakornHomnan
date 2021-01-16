@@ -1,11 +1,6 @@
 ### Hi there 👋
 
-<!--
-**SuphakornHomnan/SuphakornHomnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Junior Backend Web Developer
-(
-React,Express.js,mongoDB
-)
+
 
 Here are some ideas to get you started:
 
@@ -21,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: supakornhomnan@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
