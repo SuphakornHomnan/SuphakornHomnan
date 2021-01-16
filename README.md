@@ -2,15 +2,23 @@
 
 <!--
 **SuphakornHomnan/SuphakornHomnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Backend Web Developer
+(
+React,Express.js,mongoDB
+)
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🌱 I’m currently learning PHP,TS,Docker,Unit test
+- I'm interested to learning Robot framework,Laravel framework,Django framework
+- My computer language skill : JS,Python,Haskell,C++,PHP,SQL,Git,Bash command
+- My framework skill : React,Express.js
+- Other tools : AWS EC2,Heroku,Postman,Mongodb Compass 
+- 👯 I’m looking to collaborate on interesting project ^ . ^
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: supakornhomnan@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
