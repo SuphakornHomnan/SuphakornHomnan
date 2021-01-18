@@ -1,6 +1,6 @@
 ### Hi bro 👋
-
-- 🔭 I’m currently working on ...
+>
+- 🔭 I’m currently finding my job
 - 🌱 I’m currently learning PHP,TS,Docker,Unit test
 - I'm interested to learning Robot framework,Laravel framework,Django framework
 - My computer language skill : JS,Python,Haskell,C++,PHP,SQL,Git,Bash command
