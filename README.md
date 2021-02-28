@@ -1,7 +1,7 @@
 ### Hi bro 👋
 
 - 🔭 I’m currently finding my job
-- 🌱 I’m currently learning PHP, Typescript, Docker, Unit test(Mocha)
+- 🌱 I’m currently learning Nodejs, Typescript, Docker
 - I'm interested to learning Robot framework, Laravel framework, Django framework
 - My computer language skill : Javascript, Python, Haskell, C++, PHP, SQL, Git, Bash command
 - My framework skill : React, Express.js, Next.js
