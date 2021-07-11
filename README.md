@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Suphakorn Homnan
 #### Software Developer
-![Software Developer](https://scontent.fcnx4-1.fna.fbcdn.net/v/t1.6435-9/60767086_2191205300970371_8031279038939004928_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=8bfeb9&_nc_eui2=AeHTUndAah8KT8bQJMglQOVExXLJAwBWb8vFcskDAFZvyx4l-jQuuRO-s_QEvgcc_lhQU7wlxUZgdVXRTpyz-2FT&_nc_ohc=tArXK1JUWGwAX-7ennG&_nc_oc=AQlDc4k2BaZ4q4_UrScf0PDtKIcPKZOHTif6Adsh0KbklllbLWlBQpHxdXFAkEYHn1655fUxoMZD70isP4hUyBzq&_nc_ht=scontent.fcnx4-1.fna&oh=0996dcb2451029f9ca22ff41e8670ddf&oe=60EEBB58)
 
 I'm suphakorn from Thailand You can call me 'Nice', and I do software developer on Backend Web Development. I really enjoy learning languages and frameworks like NestJs and Express.js, as well as work in NestJs.
 I also enjoy rest api, graphql, functional programming and design system in general. Now I'm working at Wisdom Epic Coding at Chiang Mai. 
