@@ -1,13 +1,7 @@
 ### Hi bro 👋
 
-- 🔭 I’m currently on Probation at Wisdom Epic Coding (May - August 2021)
-- 🌱 I’m currently learning Expressjs, Typescript, NestJS, Spring Boot, Docker, GraphQL, Jest
-- I'm interested to learning Django framework, Java, Java Spring Boot
-- My computer language skill : Javascript, Python,Typescript, Java, Haskell, C++, PHP, SQL, Git, Bash command
-- My web framework skill : Express.js, React, NestJS, Next.js, Bootstrap, Bulma, Fastify, Spring Boot
-- Other tools : AWS EC2, Heroku, Postman, Iosomnia, Mongodb Compass 
-- 👯 I’m looking to collaborate on an interesting project that can make me better ^ . ^
-- 📫 How to reach me: supakornhomnan@gmail.com
+I'm suphakorn from Thailand You can call me 'Nice', and I do software developer on Backend Web Development. I really enjoy learning languages and frameworks like NestJs and Express.js, as well as work in NestJs.
+I also enjoy rest api, graphql, functional programming and design system in general. Now I'm working at Wisdom Epic Coding at Chiang Mai. 
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuphakornHomnan)](https://github.com/anuraghazra/github-readme-stats)
 
