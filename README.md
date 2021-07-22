@@ -20,29 +20,30 @@ I also enjoy rest api, graphql, functional programming and design system in gene
 [<img align="left" alt="TS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" />]()
 [<img align="left" alt="Python" width="26px" src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" />]()
 [<img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" />]()
-[<img align="left" alt="php" width="26px" src="http://pngimg.com/uploads/php/php_PNG12.png" />]()
+[<img align="left" alt="php" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" />]()
 [<img align="left" alt="Java" width="26px" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" />]()
 [<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />]()
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]()
 [<img align="left" alt="Postgres" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png" />]()
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />]()
+[<img align="left" alt="MongoDB" width="26px" src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png" />]()
 <br />
 <br />
+[<img align="left" alt="Docker" width="26px" src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" />]()
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]()
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]()
 [<img align="left" alt="Bitbucket" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bitbucket-blue-logomark-only.svg/1200px-Bitbucket-blue-logomark-only.svg.png" />]()
+[<img align="left" alt="Gitlab" width="36px" src="https://futurehax.com/wp-content/uploads/2020/06/gitlab-icon-rgb.png" />]()
 [<img align="left" alt="Jira" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_K9S-sOk8K8r_gnMQrHcS1GyTm_iGhdPWFCfFRR1jEM1W02eBJN1HWqoF3OX9jwD3FZo&usqp=CAU" />]()
 [<img align="left" alt="Swagger" width="26px" src="https://phauer.com/blog/2015/0728-enriching-restful-services-swagger/swagger-logo-300x239.png" />]()
 [<img align="left" alt="Postman" width="26px" src="https://cdn.freelogovectors.net/wp-content/uploads/2020/12/postman-logo.png" />]()
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]()
 
+<br />
+
 ## Interest 
 * Microservices concept
 * Clean code
 * DevOps
-
-<br />
-<br/>
 
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuphakornHomnan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
