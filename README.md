@@ -45,7 +45,7 @@ I also enjoy rest api, graphql, functional programming and design system in gene
 * Clean code 
 * Quality code
 * DevOps
-* Smart Contract (Web3)
+* Smart Contract (Web3,Solidity)
 
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuphakornHomnan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
