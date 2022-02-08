@@ -3,8 +3,8 @@
 ### Hi there 👋, I'm Suphakorn Homnan
 #### Software Developer
 
-I'm suphakorn from Thailand You can call me 'Nice', and I do software developer on Backend Web Development. I am a JS lover. I really enjoy learning languages and frameworks like NestJs and Express.js, as well as work in NestJs.
-I also enjoy rest api, graphql, functional programming and design system in general. Now I'm working at Wisdom Epic Coding at Chiang Mai. 
+I'm suphakorn You can call me 'Nice' I from Chiang Mai in Thailand. I worked about software development for one year. Now I'm working at the Wisdom epic coding. I'm a node.js lover. I really enjoy learning a new things and frameworks like NestJs and Express.js, as well as work in NestJs.
+I also enjoy restful api, graphql, functional programming and design system in general. 
 
 ## Experience
 * 💻 CRUD(RESTful), File upload(S3), TypeORM Mongoose Sequelize implement on NestJs & Express 
@@ -12,16 +12,11 @@ I also enjoy rest api, graphql, functional programming and design system in gene
 * 🧑🏻‍💻  Ever work on Agile Methology with Scrum framework
 
 ## Languages and Framework:
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]()
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]()
-[<img align="left" alt="JS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]()
+[<img align="left" alt="node.js" width="26px" src="https://miro.medium.com/max/800/1*bc9pmTiyKR0WNPka2w3e0Q.png" />]()
 [<img align="left" alt="TS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" />]()
 [<img align="left" alt="Python" width="26px" src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" />]()
-[<img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" />]()
-[<img align="left" alt="PHP" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" />]()
 [<img align="left" alt="Express" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPFNPPEPAXqZPLNdBt06uGdjf_mCG6a6KhxQzpATXsiuh2LH1NHZ79wV-1xYewkiw_f78&usqp=CAU" />]()
 [<img align="left" alt="NestJS" width="26px" src="https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png" />]()
-[<img align="left" alt="ReactJS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]()
 
 <br />
 
@@ -46,8 +41,7 @@ I also enjoy rest api, graphql, functional programming and design system in gene
 * Microservices concept
 * Clean code 
 * Quality code
-* DevOps
-* Smart Contract (Web3,Solidity)
+* Investment
 
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuphakornHomnan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
