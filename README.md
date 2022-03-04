@@ -7,9 +7,11 @@ I'm suphakorn You can call me 'Nice' I from Chiang Mai in Thailand. I worked abo
 I also enjoy restful api, graphql, functional programming and design system in general. 
 
 ## Experience
-* 💻 CRUD(RESTful), File upload(S3), TypeORM Mongoose Sequelize implement on NestJs & Express 
-* 🧪 Ever write TDD, BDD(Cucumber) 
-* 🧑🏻‍💻  Ever work on Agile Methology with Scrum framework
+* 💻  CRUD(RESTful,Graphql), File upload(S3)
+* ORM packages: TypeORM, Mongoose
+* Storages: Minio, AWS S3
+* Test packages: jest, jest-cucumber
+* 🧑🏻‍💻 Agile Methology with Scrum framework
 
 ## Languages and Framework:
 [<img align="left" alt="node.js" width="26px" src="https://miro.medium.com/max/800/1*bc9pmTiyKR0WNPka2w3e0Q.png" />]()
