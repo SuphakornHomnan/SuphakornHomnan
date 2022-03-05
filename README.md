@@ -7,7 +7,7 @@ I'm suphakorn You can call me 'Nice' I from Chiang Mai in Thailand. I worked abo
 I also enjoy restful api, graphql, functional programming and design system in general. 
 
 ## Experience
-* 💻  CRUD(RESTful,Graphql), File upload(S3)
+* 💻  CRUD(RESTful, Graphql)
 * ORM packages: TypeORM, Mongoose
 * Storages: Minio, AWS S3
 * Test packages: jest, jest-cucumber
