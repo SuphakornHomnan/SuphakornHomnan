@@ -9,7 +9,7 @@ Now I'm learning golang language.
 
 ## Experience
 * CRUD(RESTful, Graphql)
-* ORM packages: TypeORM, Mongoose
+* Data management: TypeORM, Mongoose, Prisma
 * File Storages: Minio, AWS S3
 * Test packages: jest, jest-cucumber
 * Agile Methology with Scrum framework
@@ -37,6 +37,8 @@ Now I'm learning golang language.
 [<img align="left" alt="Gitlab" width="36px" src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" />]()
 [<img align="left" alt="Jira" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_K9S-sOk8K8r_gnMQrHcS1GyTm_iGhdPWFCfFRR1jEM1W02eBJN1HWqoF3OX9jwD3FZo&usqp=CAU" />]()
 [<img align="left" alt="Postman" width="26px" src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" />]()
+[<img align="left" alt="Postman" width="26px" src="https://avatars.githubusercontent.com/u/17219288?s=280&v=4" />]()
+
 
 <br />
 
