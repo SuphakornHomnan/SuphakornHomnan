@@ -5,7 +5,7 @@
 
 I'm suphakorn You can call me 'Nice' I from Chiang Mai in Thailand. I worked about software development for one year. Now I'm working at the Wisdom epic coding. I'm a node.js lover. I really enjoy learning a new things and frameworks like NestJs and Express.js, as well as work in NestJs.
 I also enjoy restful api, graphql, functional programming and design system in general.
-Now I'm learning golang language.
+Now I'm learning golang and rust.
 
 ## Experience
 * CRUD(RESTful, Graphql)
