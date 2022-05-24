@@ -5,7 +5,7 @@
 
 I'm suphakorn You can call me 'Nice' I from Chiang Mai in Thailand. I worked about software development for one year. Now I'm working at the Wisdom epic coding. I'm a node.js lover. I really enjoy learning a new things and frameworks like NestJs and Express.js, as well as work in NestJs.
 I also enjoy restful api, graphql, functional programming and design system in general.
-Now I'm learning golang and rust.
+Now I'm learning golang.
 
 ## Experience
 * CRUD(RESTful, Graphql)
@@ -17,10 +17,11 @@ Now I'm learning golang and rust.
 ## Languages and Framework:
 [<img align="left" alt="node.js" width="26px" src="https://miro.medium.com/max/800/1*bc9pmTiyKR0WNPka2w3e0Q.png" />]()
 [<img align="left" alt="Python" width="26px" src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" />]()
+[<img align="left" alt="Golang" width="20px" src="https://www.nicepng.com/png/detail/264-2641184_111-kb-png-golang-logo.png" />]()
 [<img align="left" alt="Express" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPFNPPEPAXqZPLNdBt06uGdjf_mCG6a6KhxQzpATXsiuh2LH1NHZ79wV-1xYewkiw_f78&usqp=CAU" />]()
 [<img align="left" alt="NestJS" width="26px" src="https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png" />]()
-[<img align="left" alt="Golang" width="20px" src="https://www.nicepng.com/png/detail/264-2641184_111-kb-png-golang-logo.png" />]()
 [<img align="left" alt="Gin" width="32px" src="https://i.redd.it/3dto8z3ma7671.png" />]()
+[<img align="left" alt="FastApi" width="26px" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" />]()
 
 
 
