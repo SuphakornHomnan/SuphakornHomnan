@@ -8,7 +8,8 @@ I also enjoy restful api, graphql, functional programming and design system in g
 Now I'm learning golang.
 
 ## Experience
-* CRUD(RESTful, Graphql)
+* CRUD(RESTful, Graphql), WebSocket
+* Implement APIs: Request-Driven, Event-Driven
 * Data management: TypeORM, Mongoose, Prisma
 * File Storages: Minio, AWS S3
 * Test packages: jest, jest-cucumber
