@@ -9,9 +9,11 @@ Now I'm learning golang.
 
 ## Experience
 * CRUD(RESTful, Graphql), WebSocket
+* API-Document: OpenAPI, AsyncAPI
 * Implement APIs: Request-Driven, Event-Driven
 * Data management: TypeORM, Mongoose, Prisma
 * File Storages: Minio, AWS S3
+* Performance: caching(redis), job-queue(redis-bull)
 * Test packages: jest, jest-cucumber
 * Agile Methology with Scrum framework
 
