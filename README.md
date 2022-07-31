@@ -3,9 +3,9 @@
 ### Hi there 👋, I'm Suphakorn Homnan
 #### Software Developer
 
-I'm suphakorn You can call me 'Nice' I from Chiang Mai in Thailand. I worked about software development for one year. Now I'm working at the Wisdom epic coding. I'm a node.js lover. I really enjoy learning a new things and frameworks like NestJs and Express.js, as well as work in NestJs.
+I'm suphakorn You can call me 'Nice' I from Chiang Mai in Thailand. I worked about software development for one year. Now I'm working at the Larngear Technology co,ltd. I'm a node.js lover. I really enjoy learning a new things and frameworks like NestJs and Express.js, as well as work in NestJs.
 I also enjoy restful api, graphql, functional programming and design system in general.
-Now I'm learning golang.
+Now I'm learning data science boot camp course by datarookie.
 
 ## Experience
 * CRUD(RESTful, Graphql), WebSocket
@@ -41,7 +41,9 @@ Now I'm learning golang.
 [<img align="left" alt="Gitlab" width="36px" src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" />]()
 [<img align="left" alt="Jira" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_K9S-sOk8K8r_gnMQrHcS1GyTm_iGhdPWFCfFRR1jEM1W02eBJN1HWqoF3OX9jwD3FZo&usqp=CAU" />]()
 [<img align="left" alt="Postman" width="26px" src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" />]()
-[<img align="left" alt="Postman" width="26px" src="https://avatars.githubusercontent.com/u/17219288?s=280&v=4" />]()
+[<img align="left" alt="Prisma" width="26px" src="https://avatars.githubusercontent.com/u/17219288?s=280&v=4" />]()
+[<img align="left" alt="Kubernetes" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1055px-Kubernetes_logo_without_workmark.svg.png" />]()
+
 
 
 <br />
@@ -51,6 +53,7 @@ Now I'm learning golang.
 * High availability server
 * Clean code 
 * Quality code
+* Data science
 * Investment
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuphakornHomnan&layout=compact)](https://github.com/SuphakornHomnan/SuphakornHomnan)
