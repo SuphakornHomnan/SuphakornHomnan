@@ -37,6 +37,7 @@ My name is Suphakorn, however, I prefer to be referred to as 'Nice'. I'm from Ch
 ![Material UI](https://img.shields.io/badge/-Material_UI-informational?style=flat&logo=Material&logoColor=white&color=00ACD7)
 ![Antd](https://img.shields.io/badge/-Antd-informational?style=flat&logo=Antd&logoColor=white&color=F7DF1E)
 ![AWS](https://img.shields.io/badge/-AWS-informational?style=flat&logo=AWS&logoColor=white&color=00ACD7)
+![Vercel](https://img.shields.io/badge/-Vercel-informational?style=flat&logo=Vercel&logoColor=white&color=F7DF1E)
 ![Firebase](https://img.shields.io/badge/-Firebase-informational?style=flat&logo=Firebase&logoColor=white&color=F7DF1E)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-informational?style=flat&logo=Tailwind&logoColor=white&color=00ACD7)
 
