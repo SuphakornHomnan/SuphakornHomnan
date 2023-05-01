@@ -3,58 +3,43 @@
 ### Hi there 👋, I'm Suphakorn Homnan
 #### Software Developer
 
-I'm suphakorn You can call me 'Nice' I from Chiang Mai in Thailand. I worked about software development for one year. Now I'm working at the Larngear Technology co,ltd. I'm a node.js lover. I really enjoy learning a new things and frameworks like NestJs and Express.js, as well as work in NestJs.
-I also enjoy restful api, graphql, functional programming and design system in general.
-Now I'm learning data science boot camp course by datarookie.
+My name is Suphakorn, however, I prefer to be referred to as 'Nice'. I'm from Chiang Mai, Thailand and have gained valuable experience in software development, having been involved in the field for a period of two year. At present, I'm going to study at Bath University, in Business Analytics MSc. I take pleasure in acquiring knowledge on new concepts, frameworks such as NestJs and Express.js, and revel in working with NestJs. My areas of interest include Restful API, GraphQL, Functional programming, and design systems in general.
 
 ## Experience
-* CRUD(RESTful, Graphql), WebSocket
-* API-Document: OpenAPI, AsyncAPI
-* Implement APIs: Request-Driven, Event-Driven
-* Data management: TypeORM, Mongoose, Prisma
-* File Storages: Minio, AWS S3
-* Performance: caching(redis), job-queue(redis-bull)
-* Test packages: jest, jest-cucumber
-* Agile Methology with Scrum framework
+* Successfully spearheaded the development of an e-learning website for a leading Thai corporation (CPF).
+* Demonstrated proficiency in developing and maintaining the backend system of Wisdom Property, an estate company based in Chiang Mai.
+* Exhibited effective planning and management skills in overseeing the Chiang Mai branch's developer team, resulting in timely delivery of weekly features.
 
-## Languages and Framework:
-[<img align="left" alt="node.js" width="26px" src="https://miro.medium.com/max/800/1*bc9pmTiyKR0WNPka2w3e0Q.png" />]()
-[<img align="left" alt="Python" width="26px" src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" />]()
-[<img align="left" alt="Golang" width="20px" src="https://www.nicepng.com/png/detail/264-2641184_111-kb-png-golang-logo.png" />]()
-[<img align="left" alt="Express" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPFNPPEPAXqZPLNdBt06uGdjf_mCG6a6KhxQzpATXsiuh2LH1NHZ79wV-1xYewkiw_f78&usqp=CAU" />]()
-[<img align="left" alt="NestJS" width="26px" src="https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png" />]()
-[<img align="left" alt="Gin" width="32px" src="https://i.redd.it/3dto8z3ma7671.png" />]()
-[<img align="left" alt="FastApi" width="26px" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" />]()
+### Connect with me
 
+[![My Website](https://img.shields.io/badge/My_Website-suphakornhomnan.github.io-informational?style=flat&logo=website&logoColor=white&color=AF9FF8)](https://suphakorn-homnan-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-SuphakornHomnan-informational?style=flat&logo=LinkedIn&logoColor=white&color=077AB0)](https://www.linkedin.com/in/suphakorn-homnan-26053b210/)
+[![Email](https://img.shields.io/badge/Email-supakornhomnan@gmail.com-informational?style=flat&logo=gmail&logoColor=white&color=F58899)](mailto:supakornhomnan@gmail.com)
 
+### Skills and Experience
 
-<br />
+![JavaScript](https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=F7DF1E)
+![TypeScript](https://img.shields.io/badge/-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=00ACD7)
+![Python](https://img.shields.io/badge/-Python-informational?style=flat&logo=Python&logoColor=white&color=F7DF1E)
+![Java](https://img.shields.io/badge/-Java-informational?style=flat&logo=Java&logoColor=white&color=00ACD7)
+![PHP](https://img.shields.io/badge/-PHP-informational?style=flat&logo=PHP&logoColor=white&color=F7DF1E)
+![Go](https://img.shields.io/badge/-Go-informational?style=flat&logo=Go&logoColor=white&color=00ACD7)
+![React](https://img.shields.io/badge/-React-informational?style=flat&logo=React&logoColor=white&color=00ACD7)
+![Node.js](https://img.shields.io/badge/-Node.js-informational?style=flat&logo=Nodejs&logoColor=white&color=00ACD7)
+![Laravel](https://img.shields.io/badge/-Laravel-informational?style=flat&logo=Laravel&logoColor=white&color=F7DF1E)
+![MongoDB](https://img.shields.io/badge/-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=F7DF1E)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=00ACD7)
+![SQLite](https://img.shields.io/badge/-SQLite-informational?style=flat&logo=SQLite&logoColor=white&color=F7DF1E)
+![HTML](https://img.shields.io/badge/-HTML-informational?style=flat&logo=HTML&logoColor=white&color=00ACD7)
+![CSS](https://img.shields.io/badge/-CSS-informational?style=flat&logo=CSS&logoColor=white&color=F7DF1E)
+![Sass](https://img.shields.io/badge/-Sass-informational?style=flat&logo=Sass&logoColor=white&color=00ACD7)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=F7DF1E)
+![Material UI](https://img.shields.io/badge/-Material_UI-informational?style=flat&logo=Material&logoColor=white&color=00ACD7)
+![Antd](https://img.shields.io/badge/-Antd-informational?style=flat&logo=Antd&logoColor=white&color=F7DF1E)
+![AWS](https://img.shields.io/badge/-AWS-informational?style=flat&logo=AWS&logoColor=white&color=00ACD7)
+![Firebase](https://img.shields.io/badge/-Firebase-informational?style=flat&logo=Firebase&logoColor=white&color=F7DF1E)
+![Tailwind](https://img.shields.io/badge/-Tailwind-informational?style=flat&logo=Tailwind&logoColor=white&color=00ACD7)
 
-## Database & Others
-[<img align="left" alt="Postgres" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png" />]()
-[<img align="left" alt="MongoDB" width="26px" src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png" />]()
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]()
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />]()
-[<img align="left" alt="Docker" width="26px" src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" />]()
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]()
-[<img align="left" alt="Bitbucket" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bitbucket-blue-logomark-only.svg/1200px-Bitbucket-blue-logomark-only.svg.png" />]()
-[<img align="left" alt="Gitlab" width="36px" src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" />]()
-[<img align="left" alt="Jira" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_K9S-sOk8K8r_gnMQrHcS1GyTm_iGhdPWFCfFRR1jEM1W02eBJN1HWqoF3OX9jwD3FZo&usqp=CAU" />]()
-[<img align="left" alt="Postman" width="26px" src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" />]()
-[<img align="left" alt="Prisma" width="26px" src="https://avatars.githubusercontent.com/u/17219288?s=280&v=4" />]()
-[<img align="left" alt="Kubernetes" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1055px-Kubernetes_logo_without_workmark.svg.png" />]()
-
-
-
-<br />
-
-## Interest 
-* Microservices concept
-* High availability server
-* Clean code 
-* Quality code
-* Data science
-* Investment
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuphakornHomnan&layout=compact)](https://github.com/SuphakornHomnan/SuphakornHomnan)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuphakornHomnan&show_icons=true)
