@@ -1,9 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=SuphakornHomnan)
 
 ### Hi there 👋, I'm Suphakorn Homnan
-#### Software Developer
+#### Data Analyst
 
-My name is Suphakorn, however, I prefer to be referred to as 'Nice'. I'm from Chiang Mai, Thailand and have gained valuable experience in software development, having been involved in the field for a period of two year. At present, I'm going to study at Bath University, in Business Analytics MSc. I take pleasure in acquiring knowledge on new concepts, frameworks such as NestJs and Express.js, and revel in working with NestJs. My areas of interest include Restful API, GraphQL, Functional programming, and design systems in general.
+I have experience in the software development department for around two years. I am an expert in solving technical problems by writing various coding languages because, in my prior job routine, I had to develop and maintain the backend system that was the core of my previous company's platform. My interest is data visualization; I feel excited when exploring unknown data from scratch. One of the things that I love is that I always learn something new when doing this.
 
 ## Experience
 * Successfully spearheaded the development of an e-learning website for a leading Thai corporation (CPF).
