@@ -1,9 +1,11 @@
 ![](https://komarev.com/ghpvc/?username=SuphakornHomnan)
 
 ### Hi there 👋, I'm Suphakorn Homnan
-#### Data Analyst
+#### Data Enthusiast
 
-I have experience in the software development department for around two years. I am an expert in solving technical problems by writing various coding languages because, in my prior job routine, I had to develop and maintain the backend system that was the core of my previous company's platform. My interest is data visualization; I feel excited when exploring unknown data from scratch. One of the things that I love is that I always learn something new when doing this.
+Experienced Software Engineer and Business Analytics graduate with expertise in data analysis, predictive modeling, and dashboard creation. Proficient in R, Python, SQL, Tableau, and VBA, with hands-on experience in optimizing systems. Passionate about analyzing customer needs and marketing trends and developing data-driven strategies. Eager to contribute analytical approaches and strategic planning by converting complex data into actionable insights, addressing the business goals.
+
+Currently seeking employment in Bangkok. I am interested in analyst and data scientist roles to leverage analytical skills and experience in delivering actionable insights and identifying potential opportunities to drive business growth.
 
 ## Experience
 * Successfully spearheaded the development of an e-learning website for a leading Thai corporation (CPF).
