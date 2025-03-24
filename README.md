@@ -8,7 +8,7 @@ Experienced Software Engineer and Business Analytics graduate with expertise in 
 Currently seeking employment in Bangkok. I am interested in analyst and data scientist roles to leverage analytical skills and experience in delivering actionable insights and identifying potential opportunities to drive business growth.
 
 ## Experience
-* Successfully spearheaded the development of an e-learning website for a leading Thai corporation (CPF).
+* Successfully spearheaded the development of an LMS platform for a food corporation.
 * Demonstrated proficiency in developing and maintaining the backend system of Wisdom Property, an estate company based in Chiang Mai.
 * Exhibited effective planning and management skills in overseeing the Chiang Mai branch's developer team, resulting in timely delivery of weekly features.
 
